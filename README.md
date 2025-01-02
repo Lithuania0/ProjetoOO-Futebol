@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Times de Futebol
 Este é um sistema desenvolvido em Python, utilizando os princípios da Orientação a Objetos. Ele permite realizar diversas operações para gerenciar times de futebol de maneira prática e eficiente.
 
-- Funcionalidades Disponíveis:
+Funcionalidades Disponíveis:
 - Adicionar um time: Cadastre novos times no sistema;
 - Consultar um time específico: Exiba os detalhes de um time cadastrado;
 - Listar todos os times: Veja uma lista completa de todos os times registrados;
